@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1uyUCOJxutgWL2RiXie1RjDiNozQurSQg
 """
 
-import pickle
+from pickle5 import pickle
 import streamlit as st
 import requests
 
